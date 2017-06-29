@@ -1,0 +1,114 @@
+abv00010	Glycolysis / Gluconeogenesis
+abv00020	Citrate cycle (TCA cycle)
+abv00030	Pentose phosphate pathway
+abv00040	Pentose and glucuronate interconversions
+abv00051	Fructose and mannose metabolism
+abv00052	Galactose metabolism
+abv00053	Ascorbate and aldarate metabolism
+abv00061	Fatty acid biosynthesis
+abv00062	Fatty acid elongation
+abv00071	Fatty acid degradation
+abv00072	Synthesis and degradation of ketone bodies
+abv00100	Steroid biosynthesis
+abv00130	Ubiquinone and other terpenoid-quinone biosynthesis
+abv00190	Oxidative phosphorylation
+abv00220	Arginine biosynthesis
+abv00230	Purine metabolism
+abv00240	Pyrimidine metabolism
+abv00250	Alanine, aspartate and glutamate metabolism
+abv00260	Glycine, serine and threonine metabolism
+abv00261	Monobactam biosynthesis
+abv00270	Cysteine and methionine metabolism
+abv00280	Valine, leucine and isoleucine degradation
+abv00290	Valine, leucine and isoleucine biosynthesis
+abv00300	Lysine biosynthesis
+abv00310	Lysine degradation
+abv00330	Arginine and proline metabolism
+abv00332	Carbapenem biosynthesis
+abv00340	Histidine metabolism
+abv00350	Tyrosine metabolism
+abv00360	Phenylalanine metabolism
+abv00380	Tryptophan metabolism
+abv00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+abv00410	beta-Alanine metabolism
+abv00430	Taurine and hypotaurine metabolism
+abv00450	Selenocompound metabolism
+abv00460	Cyanoamino acid metabolism
+abv00480	Glutathione metabolism
+abv00500	Starch and sucrose metabolism
+abv00510	N-Glycan biosynthesis
+abv00511	Other glycan degradation
+abv00513	Various types of N-glycan biosynthesis
+abv00514	Other types of O-glycan biosynthesis
+abv00515	Mannose type O-glycan biosynthesis
+abv00520	Amino sugar and nucleotide sugar metabolism
+abv00531	Glycosaminoglycan degradation
+abv00561	Glycerolipid metabolism
+abv00562	Inositol phosphate metabolism
+abv00563	Glycosylphosphatidylinositol (GPI)-anchor biosynthesis
+abv00564	Glycerophospholipid metabolism
+abv00565	Ether lipid metabolism
+abv00590	Arachidonic acid metabolism
+abv00592	alpha-Linolenic acid metabolism
+abv00600	Sphingolipid metabolism
+abv00603	Glycosphingolipid biosynthesis - globo and isoglobo series
+abv00620	Pyruvate metabolism
+abv00630	Glyoxylate and dicarboxylate metabolism
+abv00640	Propanoate metabolism
+abv00650	Butanoate metabolism
+abv00660	C5-Branched dibasic acid metabolism
+abv00670	One carbon pool by folate
+abv00680	Methane metabolism
+abv00730	Thiamine metabolism
+abv00740	Riboflavin metabolism
+abv00750	Vitamin B6 metabolism
+abv00760	Nicotinate and nicotinamide metabolism
+abv00770	Pantothenate and CoA biosynthesis
+abv00780	Biotin metabolism
+abv00785	Lipoic acid metabolism
+abv00790	Folate biosynthesis
+abv00860	Porphyrin and chlorophyll metabolism
+abv00900	Terpenoid backbone biosynthesis
+abv00909	Sesquiterpenoid and triterpenoid biosynthesis
+abv00910	Nitrogen metabolism
+abv00920	Sulfur metabolism
+abv00970	Aminoacyl-tRNA biosynthesis
+abv01040	Biosynthesis of unsaturated fatty acids
+abv01100	Metabolic pathways
+abv01110	Biosynthesis of secondary metabolites
+abv01130	Biosynthesis of antibiotics
+abv01200	Carbon metabolism
+abv01210	2-Oxocarboxylic acid metabolism
+abv01212	Fatty acid metabolism
+abv01230	Biosynthesis of amino acids
+abv02010	ABC transporters
+abv03008	Ribosome biogenesis in eukaryotes
+abv03010	Ribosome
+abv03013	RNA transport
+abv03015	mRNA surveillance pathway
+abv03018	RNA degradation
+abv03020	RNA polymerase
+abv03022	Basal transcription factors
+abv03030	DNA replication
+abv03040	Spliceosome
+abv03050	Proteasome
+abv03060	Protein export
+abv03410	Base excision repair
+abv03420	Nucleotide excision repair
+abv03430	Mismatch repair
+abv03440	Homologous recombination
+abv03450	Non-homologous end-joining
+abv04011	MAPK signaling pathway - yeast
+abv04070	Phosphatidylinositol signaling system
+abv04111	Cell cycle - yeast
+abv04113	Meiosis - yeast
+abv04120	Ubiquitin mediated proteolysis
+abv04122	Sulfur relay system
+abv04130	SNARE interactions in vesicular transport
+abv04139	Mitophagy - yeast
+abv04140	Autophagy
+abv04141	Protein processing in endoplasmic reticulum
+abv04144	Endocytosis
+abv04145	Phagosome
+abv04146	Peroxisome
+abv04933	AGE-RAGE signaling pathway in diabetic complications
