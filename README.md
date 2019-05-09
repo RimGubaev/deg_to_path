@@ -68,3 +68,7 @@ Output:
 5) Tables Led_to_biocyc_down.csv and Led_to_biocyc_down.csv, containing the identification numbers of the activated and repressed *P. rubens* genes with the corresponding expression levels of *L. edodes* DEG.
 
 Email: rimgubaev@gmail.com
+
+Literature:
+[Gubaev, R. F., Gorshkov, V. Y., Gapa, L. M., Gogoleva, N. E., Vetchinkina, E. P., & Gogolev, Y. V. (2018). Algorithm for Physiological Interpretation of Transcriptome Profiling Data for Non-Model Organisms. Molecular Biology, 52(4), 497-509.](https://doi.org/10.1134/S0026893318040076)
+
